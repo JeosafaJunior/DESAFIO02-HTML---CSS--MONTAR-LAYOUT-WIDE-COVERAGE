@@ -1,0 +1,72 @@
+* {
+    font-family: Poppins;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header {
+    margin: 47px 0 161px 42px;
+
+}
+
+.cabecalho {
+    font-weight: 400;
+    font-size: 14px;
+    Line-height: 21px;
+    color: #17233D;
+    margin-right: 32px;
+    cursor: pointer;
+}
+
+.botao-header {
+    Width: 124px;
+    Height: 51px;
+    border-radius: 6px;
+    border: 1px #4CB538;
+    background-color: #6FBF44;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    Line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+}
+
+.logo-desafio-02 {
+
+    Width: 595px;
+    Height: 500px;
+    margin-left: 121px;
+    display: inline-block;
+}
+
+.caixa-pricipal {
+    display: inline-block;
+    margin-left: 84px;
+    Width: 582px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    Line-height: 82px;
+    color: #161A49;
+    
+}
+
+p {
+    Width: 493px;
+    Height: 99px;
+    color: #4B505A;
+    margin: 47px 0 55px 0;
+}
+
+.link-caixa {
+    font-weight: 500;
+    font-size: 18px;
+    Line-height: 27px;
+    color: #6FBF44;
+    cursor: pointer;
+}
